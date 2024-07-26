@@ -1,0 +1,13 @@
+{
+  "focusNewTab": false,
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": true,
+  "autoPairMarkdown": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "foldIndent": false,
+  "foldHeading": false
+}
