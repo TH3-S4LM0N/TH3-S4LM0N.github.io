@@ -5,7 +5,7 @@ permalink: /main
 ---
 # Blake B.
 <div style="font-size: 10px">but my friends call me Salmon<br>
-NOTE: This site will soon be redone with Vue & Element+ as it's pretty barebones right now</div>
+NOTE: This site will soon be redone with Vue & Element+ as it's pretty barebones right now, but not a priority as I'm pretty busy rn</div>
 <br>
 I'm a high school senior, programmer and game designer.
 
@@ -39,7 +39,11 @@ I'm a high school senior, programmer and game designer.
 </table>
 </div>
 
+<br>
+
 ---
+
+<br>
 
 Todo for this site
 - Redo with Element+
