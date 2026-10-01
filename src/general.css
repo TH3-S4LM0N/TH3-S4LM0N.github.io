@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=IBM+Plex+Sans+Thai+Looped:wght@100;200;300;400;500;600;700&family=Petit+Formal+Script&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Silkscreen:wght@400;700&display=swap');
+
+* {
+  color: white;
+}
+
+p {
+  margin: 0px;
+}
+
+p + p {
+  text-indent: 4ch;
+}
+
+.noindent {
+  text-indent: 0ch;
+}
+
+.marginp {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.bullet-point-indent {
+  padding-left: 4ch;
+  display: inline-block;
+}
