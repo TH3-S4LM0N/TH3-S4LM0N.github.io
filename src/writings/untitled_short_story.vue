@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div style="margin-left: 300px; margin-right: 300px">
+  <div>
     <p>A little piece I wrote early 2026, not my proudest work, but a few fun ideas.</p>
     <h2>Untitled Short Story</h2>
     <p class="police">
@@ -178,7 +178,7 @@
         she did it when all my friends were in soup kitchens lines day in and day out, but my little
         mind could never question my mother’s beauty and innocence and love. Not for a minute, and
         even now I had trouble believing it. I grew a bit light headed and leaned to the wall,
-        alighting numerous buttons, and those glowing lights fills me with an intense dread and
+        alighting numerous buttons, and those glowing lights fill me with an intense dread and
         panic. I was going deeper into this city’s history, it’s corruption, it’s filth. Almost like
         I was being called downwards.
       </p>
@@ -230,6 +230,7 @@
 
 .police {
   font-family: 'Courier New', Courier, monospace;
+  text-align: justify;
 }
 
 .journal {
@@ -239,5 +240,6 @@
 
 .newspaper {
   font-family: 'Times New Roman', Times, serif;
+  text-align: justify;
 }
 </style>
