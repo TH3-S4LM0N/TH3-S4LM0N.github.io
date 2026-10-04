@@ -82,7 +82,7 @@
           font-family: 'Courier New', Courier, monospace;
           font-size: 16px;
           overflow-wrap: anywhere;
-          margin-top: 1em;
+          margin-top: 1rem;
           margin-bottom: 1rem;
         "
       >
@@ -107,7 +107,7 @@
         </p>
       </div>
     </div>
-    <div style="font-family: 'Times New Roman', Times, serif; font-size: 13pt">
+    <div style="font-family: 'Times New Roman', Times, serif; font-size: 1.1rem; text-align: left">
       <p>which is a very good question and the basis for apologetics:</p>
       <el-divider />
       <p>apologetics ● noun</p>
@@ -159,8 +159,6 @@
 @import url('../general.css');
 
 /* AI conversion from google docs */
-.chaos {
-}
 
 /* ─── Font families ─── */
 

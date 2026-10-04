@@ -1,13 +1,15 @@
 <script setup lang="ts">
 import untitled_short_story from './writings/untitled_short_story.vue'
 import pvguqb from './writings/pvguqb.vue'
+import gi_mfps from './writings/everything_game.vue'
 </script>
 
 <template>
   <div style="background: black; margin-left: 300px; margin-right: 300px">
     <el-main>
-      <h1>Blake Blankenship</h1>
-      blakeblank007@gmail.com | <a href="https://www.instagram.com/th3s4lm0n/">@th3s4lm0n</a>
+      <h1>Blake 'Salmon' Blankenship</h1>
+      blakeblank007@gmail.com | <a href="https://www.instagram.com/th3s4lm0n/">@th3s4lm0n</a> | WIP
+      Site
       <el-divider />
       <div>
         <p>
@@ -38,9 +40,17 @@ import pvguqb from './writings/pvguqb.vue'
         planning ahead, especially in non-linear writing, and it also taught me that scope creep is
         very real.
       </p>
+      <p>
+        <i>Myst</i> is a game about the PC grappling with vampyrism and their sinful nature, and the
+        many gods and vices that rule our worlds. It follows the player incarnating into their new
+        life to discover a dark disease within their deepest essence. They are inherently ruined.
+        Vampyrism makes them the scum of the earth to man and Numein, the lesser gods worshipped as
+        true divinity across Ikkown.
+      </p>
       <p style="margin-bottom: 1em">
-        <i>Myst</i> is a game about the PC grappling with vampyrism and their sinful nature, the
-        many gods and vices that rule our worlds, and what gives good, evil, and apathy meaning.
+        Thematically, <i>Myst</i> focuses on what gives what we call good, evil, and apathy meaning,
+        and explores why purpose often falls short in the wake of eternity. Valsai Kwaarum. Valsai
+        Yonum. Valsai Mathia.
       </p>
       <center>
         <el-space>
@@ -59,7 +69,7 @@ import pvguqb from './writings/pvguqb.vue'
       </center>
       <p class="marginp">
         While <i>Myst</i> is a project I am proud of, it's themes do not wholly reflect who I am or
-        what I belive anymore. In all honesty, if you'd like to know about it to learn about me,
+        what I believe anymore. In all honesty, if you'd like to know about it to learn about me,
         don't read it, just ask me about it.
       </p>
       <el-divider />
@@ -70,7 +80,8 @@ import pvguqb from './writings/pvguqb.vue'
       </p>
       <p>
         It is a sci-fi cRPG about the universe ending and you being left behind, and the worth and
-        purpose of a life in the face of the destruction of the race.
+        purpose of a life in the face of the destruction of the race, and why nothing has actually
+        changed in this scenario.
       </p>
       <div>
         <center>
@@ -85,7 +96,7 @@ import pvguqb from './writings/pvguqb.vue'
         My introduction to programming was through making mods for Titanfall 2. One of my favorites
         was the
         <a href="https://thunderstore.io/c/northstar/p/TH3_S4LM0N/kunai_melee/">kunai melee mod</a>.
-        At the time, swapping models wasn't possible with the tools availible, and I worked with a
+        At the time, swapping models wasn't possible with the tools available, and I worked with a
         few other people to make the first public mod that was able to do model swapping. I
         additionally wrote a fair amount of documentation for the Northstar client for Titanfall in
         it's infancy (although little of that is still around today).
@@ -98,8 +109,8 @@ import pvguqb from './writings/pvguqb.vue'
         While it's not exactly the most beautiful thing I've ever seen (and it falls to pieces in
         anything but 16:9 as I haven't implemented UI scaling yet), I made it by hand with Vue and
         Element+ and I'm rather proud of it. In addition to a basic knowledge of HTML and
-        TypeScript, I'm proficient with Rust, and fairly decent with C++ and Python. I also have
-        plenty of experience with Linux for what it's worth.
+        TypeScript, I'm proficient with Rust and Godot, and fairly decent with C++ and Python. I
+        also have plenty of experience with Linux for what it's worth.
       </p>
     </el-main>
 
@@ -112,13 +123,15 @@ import pvguqb from './writings/pvguqb.vue'
     </div>
     <el-divider />
     <div>
-      <untitled_short_story class="writing-margin" />
+      <gi_mfps class="writing-margin" />
       <el-divider />
       <pvguqb class="writing-margin" />
       <el-divider />
+      <untitled_short_story class="writing-margin" />
+      <el-divider />
+      <p style="margin-bottom: 1em"><center>Thanks for looking at my stuff!</center></p>
     </div>
   </div>
-  <div style="margin-bottom: 1em"></div>
 </template>
 
 <style>

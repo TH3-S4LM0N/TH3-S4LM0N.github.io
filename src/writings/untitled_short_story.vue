@@ -230,12 +230,12 @@
 
 .police {
   font-family: 'Courier New', Courier, monospace;
-  text-align: justify;
 }
 
 .journal {
   font-family: 'Gabriola';
-  font-size: 14pt;
+  font-size: 1.25rem;
+  text-align: left;
 }
 
 .newspaper {
