@@ -56,7 +56,7 @@
         ><br />
         - Break in? <br />
         <span class="bullet-point-indent">
-          - Boss would leave my on my rump in the cold without a thought <br />
+          - Boss would leave me on my rump in the cold without a thought <br />
           - If I get this story cracked open I could buy my boss <br />
           - 2:45. Davidson will be on shift tomorrow night and he’ll be dreaming of some girl at the
           Cage by that time</span
@@ -233,7 +233,7 @@
 }
 
 .journal {
-  font-family: 'Gabriola';
+  font-family: 'Caveat';
   font-size: 1.25rem;
   text-align: left;
 }

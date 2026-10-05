@@ -53,13 +53,13 @@ import everything_game from './writings/everything_game.vue'
     </p>
     <center>
       <div style="margin-bottom: 1rem">
-        <img src="./images/ikkown-map.jpg" width="500px" />
+        <img src="./images/ikkown-map.jpg" width="50%" />
         <br />
         <center>A world map</center>
       </div>
 
       <div>
-        <img src="./images/a-history.jpg" width="500px" />
+        <img src="./images/a-history.jpg" width="50%" />
         <br />
         <center>A page from the world history</center>
       </div>
@@ -103,8 +103,7 @@ import everything_game from './writings/everything_game.vue'
       &lt;This Website /&gt; (and general programming skills)
     </h3>
     <p>
-      While it's not exactly the most beautiful thing I've ever seen (and it falls to pieces in
-      anything but 16:9 as I haven't implemented UI scaling yet), I made it by hand with Vue and
+      While it's not exactly the most beautiful thing I've ever seen, I made it by hand with Vue and
       Element+ and I'm rather proud of it. In addition to a basic knowledge of HTML and TypeScript,
       I'm proficient with Rust and Godot, and fairly decent with C++ and Python. I also have plenty
       of experience with Linux for what it's worth.
@@ -114,7 +113,7 @@ import everything_game from './writings/everything_game.vue'
     <div>
       <center>
         <h1>My Writings</h1>
-        More added as I write or decide old things are worth including
+        Website is actively being revamped, more added as I format old things
       </center>
     </div>
     <el-divider />
@@ -136,5 +135,12 @@ import everything_game from './writings/everything_game.vue'
 .writing-margin {
   margin-left: 15%;
   margin-right: 15%;
+}
+
+@media (max-width: 400px) {
+  .writing-margin {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 </style>
