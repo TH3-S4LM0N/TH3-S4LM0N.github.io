@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import main_page from './main_page.vue'
-import small_page from './small_page.vue'
+import vertical from './vertical.vue'
+import horizontal from './horizontal.vue'
 import { ref, onMounted, onUnmounted } from 'vue'
 
-const too_small = ref(false)
+const is_vertical = ref(false)
 
 const check_size = () => {
-  too_small.value = window.matchMedia('(max-width: 1715px)').matches
+  is_vertical.value = window.innerWidth < window.innerHeight
 }
 
 onMounted(() => {
@@ -20,6 +20,6 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <main_page v-if="!too_small" />
-  <small_page v-else />
+  <vertical v-if="is_vertical" />
+  <horizontal v-else />
 </template>
