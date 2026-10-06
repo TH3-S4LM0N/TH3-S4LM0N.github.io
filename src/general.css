@@ -8,6 +8,12 @@ body {
   margin: 0;
 }
 
+@media (max-width: 400px) {
+  body {
+    text-align: left;
+  }
+}
+
 p {
   margin: 0px;
 }
@@ -28,4 +34,14 @@ p + p {
 .bullet-point-indent {
   padding-left: 4ch;
   display: inline-block;
+}
+
+/* Don't justify headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: left;
 }
