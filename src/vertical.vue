@@ -2,6 +2,7 @@
 import untitled_short_story from './writings/untitled_short_story.vue'
 import pvguqb from './writings/pvguqb.vue'
 import everything_game from './writings/everything_game.vue'
+import review_outer_wilds from './writings/review_outer_wilds.vue'
 </script>
 
 <template>
@@ -110,14 +111,14 @@ import everything_game from './writings/everything_game.vue'
     </p>
 
     <el-divider />
-    <div>
-      <center>
-        <h1>My Writings</h1>
-        Website is actively being revamped, more added as I format old things
-      </center>
+    <div style="text-align: center">
+      <h1 style="text-align: center">My Writings</h1>
+      Website is actively being revamped, more added as I format old things
     </div>
     <el-divider />
     <div>
+      <review_outer_wilds class="writing-margin" />
+      <el-divider />
       <everything_game class="writing-margin" />
       <el-divider />
       <pvguqb class="writing-margin" />

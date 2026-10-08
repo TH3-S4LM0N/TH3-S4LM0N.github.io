@@ -3,7 +3,7 @@
 <template>
   <div>
     <div style="font-family: 'Courier New', Courier, monospace; text-align: justify">
-      9/28/26<br />
+      9/28/26 | Soon to be edited
 
       <div style="margin-top: 1em; margin-bottom: 1em">
         <b><center>Porn, Video Games, and the Unholy Quality of the Bible</center></b>
