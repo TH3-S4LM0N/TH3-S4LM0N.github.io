@@ -58,13 +58,11 @@
         Around this time I started seriously working on my first game, and this meant I needed to
         write about something, a theme, a message. So I went, “huh, what do I believe in?” and the
         answer was nothing. I had no values or morals or beliefs of any kind. So I figured I should
-        probably take a pause and figure that out. My options were thrice:
+        probably take a pause and figure that out. My options were thrice: that stuff my parents
+        taught me, nihilism<sup>3</sup>, or build up my own beliefs.
       </p>
-      <p>1. That stuff my parents taught me</p>
-      <p>2. Nihilism<sup>3</sup></p>
-      <p>3. Build up my own beliefs</p>
       <p>
-        So I went with the latter. I started building up a weird and distorted version of something
+        I went with the latter. I started building up a weird and distorted version of something
         resembling Christianity that viewed logic as an end and not a means and molded it to fit the
         way I liked the world. Good job! Now I had some stuff that I believed in to write about over
         the next 2 years. I wrote and worked on that game a lot and went deeper into the weird
@@ -121,27 +119,41 @@
       </p>
       <p style="text-align: right">- Meriam Webster</p>
       <el-divider />
-      <p style="line-height: 1.5">
-        Me and my dad don’t get along especially well. He’s not a bad person by any means, but he is
-        to me as that person whose presence in a room just pisses you off without them actually
-        doing anything objectively wrong is to you. One day he gave me a book and said it was very
-        good, and I was bored and had nothing better to do, so I read it figuring I’d have one more
-        reason to think he’s not especially intelligent. That book was Mere Christianity by C.S.
-        Lewis, and while I don’t agree with every argument Lewis makes, it was the first time in all
-        my life growing up in the southern baptist church that I had heard anybody talk about why
-        those people believe the things they do, and that there are arguments for and against them
-        and that it is good to dig into that yourself. I learned a lot during that time. I learned
+      <div style="line-height: 1.5em">
+        <p>
+          Me and my dad don’t get along especially well. He’s not a bad person by any means, but he
+          is to me as that person whose presence in a room just pisses you off without them actually
+          doing anything objectively wrong is to you. One day he gave me a book and said it was very
+          good, and I was bored and had nothing better to do, so I read it figuring I’d have one
+          more reason to think he’s not especially intelligent. That book was
+          <i>Mere Christianity</i> by C.S. Lewis, and while I don’t agree with every argument Lewis
+          makes, it was the first time in all my life growing up in the southern baptist church that
+          I had heard anybody talk about why those people believe the things they do, and that there
+          are arguments for and against them and that it is good to dig into that yourself. I
+          learned a lot during that time.
+          <!-- I learned
         about various arguments for the existence of God, I learned that while the Bible is full of
         wisdom, it is not literally His word, and that the events within it are stories and not
         meant to be taken literally at first glance. I learned it was ok to disagree with how I was
-        raised.
-      </p>
-      <p style="line-height: 1.5">
-        After too long, I had something that truly mattered to me to write and make games about.
-        While I’m hands down past the peak of porn I would be lying if I said I didn’t pray the why
-        prayer every now and then. These are also ongoing stories that I still think about and
-        struggle with, and I would also also be lying if I wrote a conclusion.
-      </p>
+        raised. -->
+        </p>
+        <p>
+          Biblical literalism is a complex topic. Before I dive in I want to be clear that in all
+          honesty, it's something I'm not completely settled on. I have never found the arguments
+          that the Bible is the literal word of God convincing. To some extent, I find it too easy
+          to just have a book that tells me everything. When something is viewed as infallible, even
+          if it is infallible, it makes people lazy. They just accept and stop analyzing. In times
+          before reading was common, the Bible was put forward as holy towards people who couldn't
+          read it. Apologetics didn't exist back then for that reason. While the Bible is full of
+          wisdom, I simply don't see it as so extremely and uniquely special that it must be holy.
+        </p>
+        <p>
+          After too long, I had something that truly mattered to me to write and make games about.
+          While I’m hands down past the peak of porn I would be lying if I said I didn’t pray the
+          why prayer every now and then. These are also ongoing stories that I still think about and
+          struggle with, and I would also also be lying if I wrote a conclusion.
+        </p>
+      </div>
     </div>
     <el-divider />
     <div style="font-family: 'Courier New', Courier, monospace; text-align: justify">
