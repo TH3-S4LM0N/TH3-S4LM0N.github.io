@@ -28,7 +28,7 @@ import review_outer_wilds from './writings/review_outer_wilds.vue'
       </p>
       <p>
         It doesn't exactly fit in a portfolio well but I can also produce my non-gamedev related
-        resume if you'd like to consider it.
+        resume of previous jobs if you'd like to consider it.
       </p>
     </div>
     <el-divider />
@@ -87,9 +87,11 @@ import review_outer_wilds from './writings/review_outer_wilds.vue'
       first attempt at a full scale (~10 hr) video game.
     </p>
     <p>
-      It is a sci-fi cRPG about the universe ending and you being left behind, and the worth and
-      purpose of a life in the face of the destruction of the race, and why nothing has actually
-      changed in this scenario.
+      It is a sci-fi cRPG about the universe ending and you being left behind, the worth and purpose
+      of a life in the face of the destruction of the race, and why nothing has actually changed in
+      this scenario. It's currently being made in Godot 4 with GDScript, and I plan to make most of
+      the assets (which it is admittedly not super heavy on) myself or with assistance from an
+      artist.
     </p>
     <div>
       <center>
