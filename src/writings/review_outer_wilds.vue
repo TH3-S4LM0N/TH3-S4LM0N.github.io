@@ -2,7 +2,7 @@
 
 <template>
   <div style="font-size: 1.1rem">
-    <p>Mixed from multiple reviews I've written and commentary as of 10/6/2026 | Unedited (tmp)</p>
+    <p>Mixed from multiple reviews I've written and commentary as of 10/6/2026 | First Draft</p>
     <h3 style="margin-bottom: 0">I (don't) Want to Forget</h3>
     <p style="margin-bottom: 1em; font-size: 0.9rem">
       An <a href="https://store.steampowered.com/app/753640/Outer_Wilds/">Outer Wilds</a> Essay

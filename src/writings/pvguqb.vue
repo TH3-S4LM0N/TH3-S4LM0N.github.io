@@ -148,10 +148,14 @@
           wisdom, I simply don't see it as so extremely and uniquely special that it must be holy.
         </p>
         <p>
-          After too long, I had something that truly mattered to me to write and make games about.
-          While I’m hands down past the peak of porn I would be lying if I said I didn’t pray the
-          why prayer every now and then. These are also ongoing stories that I still think about and
-          struggle with, and I would also also be lying if I wrote a conclusion.
+          Apologetics is the driver of my faith. Figuring things out for myself has always been
+          important to me. I would much rather experience a trial by fire than grow slow and study.
+          And apologetics is a complex topic with plenty to write about. Promoting a discerning view
+          of Christianity is the only thing in this world that truly matters to me. After too long,
+          I had something that truly mattered to me to write and make games about. While I’m hands
+          down past the peak of porn I would be lying if I said I didn’t pray the why prayer every
+          now and then. These are also ongoing stories that I still think about and struggle with,
+          and I would also also be lying if I wrote a conclusion.
         </p>
       </div>
     </div>

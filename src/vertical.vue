@@ -8,8 +8,7 @@ import review_outer_wilds from './writings/review_outer_wilds.vue'
 <template>
   <div style="background: black; padding: 1rem">
     <h1>Blake 'Salmon' Blankenship</h1>
-    blakeblank007@gmail.com | <a href="https://www.instagram.com/th3s4lm0n/">@th3s4lm0n</a> | WIP
-    Site
+    blakeblank007@gmail.com | <a href="https://www.instagram.com/th3s4lm0n/">@th3s4lm0n</a>
     <el-divider />
     <div>
       <p>
@@ -19,6 +18,17 @@ import review_outer_wilds from './writings/review_outer_wilds.vue'
         name of <i>Myst</i>, worked on multiple smaller ones, and am currently starting a new game
         called Choros. In the meantime, I'm studying Animation and Games at the University of Texas
         at Dallas.
+      </p>
+      <p style="margin-top: 1em">For my UTD game lab application:</p>
+      <p>
+        While references were not mentioned, I have a letter of recommendation from Dr Adam Brackin
+        (abrackin@ccawarriors.com), who taught a few narrative and design classes in the Bass school
+        here at UTD way back when, and taught various english and creative writing classes for me in
+        high school.
+      </p>
+      <p>
+        It doesn't exactly fit in a portfolio well but I can also produce my non-gamedev related
+        resume if you'd like to consider it.
       </p>
     </div>
     <el-divider />
