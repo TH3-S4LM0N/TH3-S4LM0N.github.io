@@ -3,6 +3,7 @@ import untitled_short_story from './writings/untitled_short_story.vue'
 import pvguqb from './writings/pvguqb.vue'
 import everything_game from './writings/everything_game.vue'
 import review_outer_wilds from './writings/review_outer_wilds.vue'
+import apathy from './writings/apathy.vue'
 </script>
 
 <template>
@@ -129,6 +130,8 @@ import review_outer_wilds from './writings/review_outer_wilds.vue'
     </div>
     <el-divider />
     <div>
+      <!-- <apathy class="writing-margin" />
+      <el-divider /> -->
       <review_outer_wilds class="writing-margin" />
       <el-divider />
       <everything_game class="writing-margin" />

@@ -14,7 +14,7 @@
     <p>
       Warning: Outer Wilds is a game best played blind, and I mean it. Don't watch the trailer,
       don't read the steam description, forget the name of the game if possible. For sure don't read
-      this review. Just play it. Anyway heavy spoilers ahead.
+      this review. Just play it. Heavy spoilers ahead.
     </p>
     <el-divider />
     <p>The Premise:</p>
@@ -29,7 +29,7 @@
       understand, you will hear a deep groaning, as if the universe itself was creaking on unoiled
       hinges. A bright blue light will fill your vision, and the sun will explode.
     </p>
-    <p>You <b>will</b> die.</p>
+    <p>You will die.</p>
     <p>
       And as your life flashes before your eyes, you will realize it is literally doing just that.
       The past 22 minutes of it at least. And then you will wake up from the same campfire you
@@ -52,7 +52,7 @@
       6:55. While this is aided by precise movement and ship control, I could boot up the game right
       now and be done in maybe 9 or 10 minutes. I say Outer Wilds is knowledge based because the
       only thing you need to progress is knowledge. When the sun explodes, everything but your head
-      restarts. The checklist for the final cycle of the game looks like this:
+      resets. The checklist for the final cycle of the game looks like this:
     </p>
     <ol>
       <li>
@@ -60,7 +60,7 @@
         (When you do this the looping ends. If you die on your way to Dark Bramble your save file is
         deleted and all the information you have collected on your little datapad is gone. This
         isn't realistically that big of a deal, but narratively you are consenting to the sun
-        exploding for the last time. There is no coming back.)
+        exploding for the last time. There is no going back.)
       </li>
       <li>
         Follow a frequency into Dark Bramble till you reach a spaceship and put the power thingy in
@@ -75,12 +75,12 @@
       do with it. You don't know what the Nomai did.
     </p>
     <p>
-      This is the first thing that makes Outer Wilds stand out for me. When I first played it, it
+      This is the first thing that makes Outer Wilds stand out for me. When I played it, it
       completely changed my view of how a story was to be told. I was familiar with non-linear
       storytelling, I loved RPGs. I was not familiar with non-linear progression. I immediately
-      became fascinated by alternative formats of storytelling, it truly changed me at a deep level.
-      I started writing and thinking critically about narratives. Outer Wilds made something click
-      in me.
+      became fascinated by alternative formats of storytelling, and it truly changed me at a deep
+      level and I started writing and thinking critically about narratives; Outer Wilds made
+      something click in me.
     </p>
     <el-divider />
     <p>
@@ -186,8 +186,8 @@
     <p>
       Most of grade school was the worst time of my life (and most of my life). Junior year was ok
       and senior year was great. I would never go back and I do not miss it in the slightest though.
-      I don't really want to remember most of school. It was not a good time in my life or something
-      I like thinking about. I should want to forget it.
+      I don't really want to remember most of school. It was not a good time or something I like
+      thinking about. I should want to forget it.
     </p>
     <el-divider />
     <p>
@@ -208,7 +208,7 @@
       elements, is in an ancient language you can't read. Tunic isn't really knowledge based, as
       even as you learn this language, your character will still gain abilities and get stronger.
       You couldn't immediately B-line to the end. Knowledge is also mechanized as the text will turn
-      to English as your character learns the language. I like Tunic, and it's also repayable to
+      to English as your character learns the language. I like Tunic, and it's also replayable to
       some extent. This is why I can't make Outer Wilds, I care too much about choice and
       replayability, and I couldn't write a story in which the player is just along for the cosmic
       ride.
@@ -234,6 +234,7 @@
     </p>
     <el-divider />
     <p>
+      <!-- kinda abrupt ending -->
       <s>I want to forget Outer Wilds and I want to remember high school.</s> I (don't) want to grow
       up.
     </p>
