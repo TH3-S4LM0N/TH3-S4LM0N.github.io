@@ -169,7 +169,7 @@
       I still listen to the music. It's in all my playlists, and even some of the ones it really
       doesn't belong in. The other day on a long drive
       <a href="https://www.youtube.com/watch?v=XOrygf_iLhw">14.3 Billion Years</a> came on inbetween
-      <a href="https://www.youtube.com/watch?v=jcdbdLDYxUQ"
+      <a href="https://youtu.be/dpY_1vZQd_g?si=6LRhoXmSEZ_fieT9"
         >Another Nail for Your Coffin by Lamb of God</a
       >
       and <a href="https://www.youtube.com/watch?v=KPSNlRZWv0U">Metanoia by Convictions</a>. Maybe I

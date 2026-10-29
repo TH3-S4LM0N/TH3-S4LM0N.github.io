@@ -4,6 +4,7 @@ import pvguqb from './writings/pvguqb.vue'
 import everything_game from './writings/everything_game.vue'
 import review_outer_wilds from './writings/review_outer_wilds.vue'
 import apathy from './writings/apathy.vue'
+import my_greatest_fear from './writings/my_greatest_fear.vue'
 </script>
 
 <template>
@@ -121,6 +122,8 @@ import apathy from './writings/apathy.vue'
     <div>
       <!-- <apathy class="writing-margin" />
       <el-divider /> -->
+      <my_greatest_fear class="writing-margin" />
+      <el-divider />
       <review_outer_wilds class="writing-margin" />
       <el-divider />
       <everything_game class="writing-margin" />
